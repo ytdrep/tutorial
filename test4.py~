@@ -1,0 +1,11 @@
+def print_hello():
+    print('hello')
+
+print_hello()
+
+def add5(x):
+    result = x + 5
+    return result
+
+z = add5(5)
+print(z)
